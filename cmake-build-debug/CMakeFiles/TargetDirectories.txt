@@ -1,0 +1,3 @@
+C:/Users/дима/CLionProjects/Game Life/cmake-build-debug/CMakeFiles/GameLife.dir
+C:/Users/дима/CLionProjects/Game Life/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/дима/CLionProjects/Game Life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
